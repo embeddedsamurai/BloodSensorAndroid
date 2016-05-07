@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mcby1">#ffc000</color>
+    <color name="mcby1_string">#000000</color>
+    <color name="mcby2">#00a0ff</color>
+    <color name="mcby2_string">#000000</color>
+    <declare-styleable name="CalendarView"><attr format="integer" name="today_background"/><attr format="integer" name="today_foreground"/></declare-styleable>
+    <string name="app_name">BloodSensor</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

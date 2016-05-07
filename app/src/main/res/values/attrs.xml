@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <declare-styleable name="CalendarView">
+    <attr name="today_background" format="integer" />
+    <attr name="today_foreground" format="integer" />
+  </declare-styleable>
+</resources>

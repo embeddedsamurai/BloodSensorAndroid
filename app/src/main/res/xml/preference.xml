@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+  <PreferenceCategory android:title="データ">
+    <PreferenceScreen
+	android:key="synchronize"
+	android:title="データ保存"
+	android:summary="測定データをサーバに保存します。" />
+    <PreferenceScreen
+	android:key="refresh"
+	android:title="データ消去"
+	android:summary="測定データを消去します。" />
+  </PreferenceCategory>
+</PreferenceScreen>

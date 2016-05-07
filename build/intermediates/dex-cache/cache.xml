@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidMainProjects\BloodSensorAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="62eff6416f4ca4fb39512199801b462920712f61">
+        <dex dex="C:\AndroidMainProjects\BloodSensorAndroid\app\build\intermediates\pre-dexed\debug\instant-run_534d5099f37e42f95ca59d9a08a98ee1aa8ee60f.jar" />
+    </item>
+    <item
+        jar="C:\Users\embed_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\AndroidMainProjects\BloodSensorAndroid\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_1b9b9a1da080d3f3d4bfc4c3fdb9609559bb154f.jar" />
+    </item>
+    <item
+        jar="C:\AndroidMainProjects\BloodSensorAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b4bd371a33a9f9ea244660172f8a8b5c747ae092">
+        <dex dex="C:\AndroidMainProjects\BloodSensorAndroid\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_af0450f1d3bf020f3f7452e68985f8cfc6ccb108.jar" />
+    </item>
+
+</items>

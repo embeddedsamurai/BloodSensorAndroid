@@ -1,0 +1,40 @@
+<table>
+  <name>spo2s</name>
+  <columns>
+    <column>
+      <name>measid</name>
+      <type>INTEGER</type>
+      <primaryKey>0</primaryKey>
+      <notNull>1</notNull>
+      <defaultValue null="true" />
+    </column>
+    <column>
+      <name>devid</name>
+      <type>INTEGER</type>
+      <primaryKey>0</primaryKey>
+      <notNull>1</notNull>
+      <defaultValue null="true" />
+    </column>
+    <column>
+      <name>time</name>
+      <type>INTEGER</type>
+      <primaryKey>0</primaryKey>
+      <notNull>1</notNull>
+      <defaulValue null="true" />
+    </column>
+    <column>
+      <name>frame</name>
+      <type>INTEGER</type>
+      <primaryKey>0</primaryKey>
+      <notNull>1</notNull>
+      <defaultValue null="true" />
+    </column>
+    <column>
+      <name>spo2</name>
+      <type>INTEGER</type>
+      <primaryKey>0</primaryKey>
+      <notNull>1</notNull>
+      <defaultValue null="true" />
+    </column>
+  </columns>
+</table>

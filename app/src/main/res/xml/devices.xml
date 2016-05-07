@@ -1,0 +1,33 @@
+<table>
+  <name>devices</name>
+  <columns>
+    <column>
+      <name>measid</name>
+      <type>INTEGER</type>
+      <primaryKey>0</primaryKey>
+      <notNull>1</notNull>
+      <defaultValue null="true" />
+    </column>
+    <column>
+      <name>devid</name>
+      <type>INTEGER</type>
+      <primaryKey>1</primaryKey>
+      <notNull>1</notNull>
+      <defaultValue null="true" />
+    </column>
+    <column>
+      <name>device</name>
+      <type>TEXT</type>
+      <primaryKey>0</primaryKey>
+      <notNull>1</notNull>
+      <defaultValue null="true" />
+    </column>
+    <column>
+      <name>date</name>
+      <type>INTEGER</type>
+      <primaryKey>0</primaryKey>
+      <notNull>0</notNull>
+      <defaultValue null="true" />
+    </column>
+  </columns>
+</table>

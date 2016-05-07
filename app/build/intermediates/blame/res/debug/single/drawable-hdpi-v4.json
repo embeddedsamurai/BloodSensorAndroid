@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chars16.png",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\drawable-hdpi\\chars16.png"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chars16.png",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\drawable-hdpi\\chars16.png"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chars16.png",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\drawable-hdpi\\chars16.png"
+    }
+]

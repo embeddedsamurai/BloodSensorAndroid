@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <color name="mcby1">#ffc000</color>
+  <color name="mcby2">#00a0ff</color>
+  <color name="mcby1_string">#000000</color>
+  <color name="mcby2_string">#000000</color>
+</resources>

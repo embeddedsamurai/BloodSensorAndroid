@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\memory.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\memory.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\measurement.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\layout\\measurement.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mode_select.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\mode_select.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\devices.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\layout\\devices.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\layout\\top.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stored_list.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\layout\\stored_list.xml"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_page.xml",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\calendar_page.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\paired_list.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\layout\\paired_list.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_day.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\layout\\calendar_day.xml"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mode_select.xml",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\mode_select.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\devices.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\devices.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mode_select.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\layout\\mode_select.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_day.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\calendar_day.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_page.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\layout\\calendar_page.xml"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stored_list.xml",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\stored_list.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\paired_list.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\paired_list.xml"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top.xml",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\top.xml"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\paired_list.xml",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\paired_list.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\measurement.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\measurement.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\memory.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\layout\\memory.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\top.xml"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_day.xml",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\calendar_day.xml"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\measurement.xml",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\measurement.xml"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\memory.xml",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\memory.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stored_list.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\stored_list.xml"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\devices.xml",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\devices.xml"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_page.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\layout\\calendar_page.xml"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pleths.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\xml\\pleths.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\measurements.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\xml\\measurements.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\xml\\spo2s.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\xml\\spo2s.xml"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\measurements.xml",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\xml\\measurements.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\xml\\measurements.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\xml\\measurements.xml"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\devices.xml",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\xml\\devices.xml"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference.xml",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\xml\\preference.xml"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\heartrates.xml",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\xml\\heartrates.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pleths.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\xml\\pleths.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\xml\\preference.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\xml\\devices.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\xml\\devices.xml"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\spo2s.xml",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\xml\\spo2s.xml"
+    },
+    {
+        "merged": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pleths.xml",
+        "source": "C:\\AndroidSampleProject\\BloodSensorAndroid1\\app\\src\\main\\res\\xml\\pleths.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\build\\intermediates\\res\\merged\\debug\\xml\\heartrates.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid\\app\\src\\main\\res\\xml\\heartrates.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\devices.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\xml\\devices.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\xml\\preference.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\heartrates.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\xml\\heartrates.xml"
+    },
+    {
+        "merged": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\spo2s.xml",
+        "source": "C:\\AndroidMainProjects\\BloodSensorAndroid1\\app\\src\\main\\res\\xml\\spo2s.xml"
+    }
+]
